@@ -9,7 +9,7 @@ User Harvest is a Node.js package that enables you to generate random user data,
   - [Installation](#installation)
   - [Clone the repository:](#clone-the-repository)
   - [Usage](#usage)
-  - [Current Version: 1.0.0](#current-version-100)
+  - [Current Version: 1.0.1](#current-version-101)
     - [Release Date: 22-11-2023(IST)](#release-date-22-11-2023ist)
 
 ## Installation
@@ -88,5 +88,5 @@ This project is licensed under the GNU AFFERO GENERAL PUBLIC LICENSE - see the L
 
 Feel free to use or modify this version according to your needs!
 
-## Current Version: 1.0.0
+## Current Version: 1.0.1
 ### Release Date: 22-11-2023(IST)
