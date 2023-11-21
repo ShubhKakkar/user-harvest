@@ -103,7 +103,3 @@ const generateRandomUser = async (gender, limit) => {
     return null;
   }
 };
-
-generateRandomUser("female", 1).then((result) => {
-  console.log(result)
-}).catch((err) => {console.log(`Error generating random user. Check the logs for details. ${err}`);});
