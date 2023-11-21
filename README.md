@@ -69,13 +69,13 @@ Here are some additional examples of how to use User Harvest:
 
 ```javascript
 // Generate 3 female user profiles
-const femaleUsers = generateRandomUser('female', 3);
+const femaleUsers = await generateRandomUser('female', 3);
 console.log(femaleUsers);
 ```
 
 ```javascript
 // Generate 10 male user profiles
-const maleUsers = generateRandomUser('male', 10);
+const maleUsers = await generateRandomUser('male', 10);
 console.log(maleUsers);
 ```
 
