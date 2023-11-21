@@ -7,7 +7,7 @@ User Harvest is a Node.js package that enables you to generate random user data,
 - [User Harvest](#user-harvest)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
-  - [1. Clone the repository:](#1-clone-the-repository)
+  - [Clone the repository:](#clone-the-repository)
   - [Usage](#usage)
   - [Current Version: 1.0.0](#current-version-100)
     - [Release Date: 22-11-2023(IST)](#release-date-22-11-2023ist)
@@ -16,7 +16,7 @@ User Harvest is a Node.js package that enables you to generate random user data,
 
 To install User Harvest, follow these steps:
 
-## 1. Clone the repository:
+## Clone the repository:
 
 ```bash
    git clone https://github.com/ShubhKakkar/user-harvest.git
