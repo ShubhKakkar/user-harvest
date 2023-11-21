@@ -19,7 +19,7 @@ To install User Harvest, follow these steps:
 ## Clone the repository:
 
 ```bash
-   git clone https://github.com/ShubhKakkar/user-harvest.git
+git clone https://github.com/ShubhKakkar/user-harvest.git
 ```
 a. Navigate to the project directory:
 
@@ -38,12 +38,12 @@ Generate Random User Data
 To generate random user data, you can use the generateRandomUser function provided by the package. Here's an example of how to use it:
 
 ```javascript
-Copy code
 const generateRandomUser = require('user-harvest');
 
 // Specify the gender and limit
-const result = generateRandomUser('male', 5);
-console.log(result);
+generateRandomUser('male', 5).then((result) => {
+    console.log(result);
+});
 ```
 
 Note:
