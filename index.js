@@ -103,3 +103,5 @@ const generateRandomUser = async (gender, limit) => {
     return null;
   }
 };
+
+module.exports = generateRandomUser;
